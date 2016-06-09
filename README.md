@@ -1,10 +1,15 @@
+OpenMP - Buscador de Imágenes
+==============================
+
 Ejecución:
+==================
 Para ejecutar el código tenemos que situarnos en el directorio y hacer "make".
 
 Al ejecutar el fichero no saldrá una pequeña interfaz donde veremos un MenuBar y
 un TextArea.
 
 Funcionamiento:
+==================
 
 -Si queremos cargar la BBDD nos situamos sobre "Options" y pulsamos "Load Images".
 Nos aparecerá una ventana donde se nos pedirá que seleccionemos la carpeta con las 
